@@ -443,3 +443,23 @@ text-align: center;
     }
 
 }
+ .head{
+        text-align: top;
+        justify-content: flex-start;
+        align-items: center;
+top: 0%;
+padding-bottom: 100px;
+    }
+    .image-container{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+   .ele{
+    width: 90%;
+   }
+   .ppp{
+    text-align: center;
+   }
+
+}
